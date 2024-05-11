@@ -18,11 +18,8 @@ BARBARICK.md
 BlessingEneAnyebe.md
 BrunoFernandes.MD
 CHARLESUNEZE.md
-<<<<<<< HEAD
 CHISANEMEALONI.md
-=======
 CHISANE_MEALONI.md
->>>>>>> dd7c36927ddec1a6a833c6a574e513c0cf196111
 DAVID_COPELAND.md
 DEBORAH.md
 DELETAAKRAM.md
